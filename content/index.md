@@ -1,0 +1,7 @@
+---
+title: Welcome to Quartz
+---
+Hello, This is  a test page
+
+This is a blank Quartz installation.
+See the [documentation](https://quartz.jzhao.xyz) for how to get started.
