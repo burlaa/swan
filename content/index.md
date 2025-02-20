@@ -2,8 +2,6 @@
 title: Welcome to Swan
 ---
 
-## Welcome to My Blog!
-
 Hey there!  
 
 Thanks for stopping by. This is my little corner of the internet where I'll be sharing my thoughts, insights, and discoveries on Technology, Space, AI, Science, and anything else that sparks my curiosity.  
